@@ -1,5 +1,5 @@
 
-# Agent-Nadeshiko🤖
+# Agent-Nadeshiko なでしこ🤖
 ![NADESHIKOB](https://github.com/user-attachments/assets/38cda77e-bd13-4860-9c2d-215d756fe4ef)
 
 ABOUT Nadeshiko Extension🌐
