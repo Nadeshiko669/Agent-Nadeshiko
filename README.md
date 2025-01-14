@@ -15,6 +15,8 @@ With Nadeshiko, you gain access to advanced tools that evaluate key aspects of a
 	3.Website Check: Analyze the coin's official website for similarities with others, flagging potential clones or copycats to protect you from scams.
 
 Nadeshiko empowers you with the insights you need to stay ahead in the ever-evolving world of cryptocurrency. Experience transparency, trust, and innovation like never before with Nadeshiko AI.
+![Screenshot_399](https://github.com/user-attachments/assets/e5fa43f7-9506-4baa-98be-fd8ea03e2a22)
+![Screenshot_400](https://github.com/user-attachments/assets/93519caa-a402-4ea9-a181-07c13a4a4b78)
 
 Nadeshiko Extension can be use on bullx/neo, photon , gmgn, pump.fun and dexscreener.
 
