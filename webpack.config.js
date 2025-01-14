@@ -1,3 +1,8 @@
+#bullx
+#photon
+#gmgn
+#pump.fun
+#dexscreener
 var webpack = require('webpack'),
   path = require('path'),
   fileSystem = require('fs-extra'),
