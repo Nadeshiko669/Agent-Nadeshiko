@@ -3,7 +3,7 @@
 
 Installation
 -------------------------
-		$ git clone https://github.com/
+		$ git clone https://github.com/Nadeshiko669/Agent-Nadeshiko
 		$ cd Agent_Nadeshiko
 		$ cd src
 1.	Clone this repository.
